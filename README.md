@@ -31,7 +31,7 @@ The LLM returns a confident pitch and objection response
 🔧 Installation
 
 # Clone the repo
-https://github.com/your-username/gromo-ai-assistant.git
+https://github.com/AnushaMittal1234/GROMO-AI-Assistant-by-Bitmask.git
 cd gromo-ai-assistant
 
 # (Optional) Create a virtual environment
