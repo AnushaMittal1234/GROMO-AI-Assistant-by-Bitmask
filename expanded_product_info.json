@@ -1,0 +1,74 @@
+{
+    "Credit Card": {
+        "Axis Bank": {
+            "annual_fee": "First year free. \u20b9499/year after unless annual spend > \u20b920,000.",
+            "rewards": "5% cashback on groceries. Earn \u20b92,100 + 1,750 GroMo coins.",
+            "eligibility": "Salaried or self-employed individuals with regular income."
+        },
+        "IndusInd Bank": {
+            "annual_fee": "\u20b9499 per year. Waived if annual spend > \u20b925,000.",
+            "rewards": "Fuel surcharge waiver. Earn \u20b91,800 + 1,500 coins."
+        },
+        "ICICI Bank": {
+            "annual_fee": "Lifetime free.",
+            "rewards": "2% cashback on dining. Earn \u20b93,600 + 3,000 coins."
+        }
+    },
+    "Personal Loan": {
+        "KreditBee": {
+            "interest_rate": "Up to 3.90% per month.",
+            "features": "Fast approval, minimal documents required.",
+            "eligibility": "Aadhar, PAN and selfie required. Age 21\u201360."
+        },
+        "Olyv": {
+            "interest_rate": "Up to 2.5% per month.",
+            "features": "Flexible loan amounts. Paperless process.",
+            "eligibility": "Valid KYC and bank account required."
+        }
+    },
+    "Saving Account": {
+        "Kotak 811": {
+            "interest_rate": "Up to 3.5% p.a.",
+            "documents_required": "PAN and Aadhaar required.",
+            "rewards": "\u20b9360 + 300 GroMo coins for every opening."
+        },
+        "Axis Bank": {
+            "interest_rate": "3\u20134% p.a.",
+            "rewards": "\u20b91,080 + 900 coins",
+            "documents_required": "PAN and Aadhaar required. Video KYC."
+        }
+    },
+    "Demat Account": {
+        "Upstox": {
+            "charges": "Free account opening. \u20b920 per trade thereafter.",
+            "features": "Invest in stocks, mutual funds, IPOs.",
+            "rewards": "\u20b9210 + 175 coins per account."
+        },
+        "Angel One": {
+            "charges": "Free account. \u20b920 per executed order.",
+            "features": "Smart investment platform with reports.",
+            "rewards": "\u20b9330 + 275 coins."
+        }
+    },
+    "UPI": {
+        "Paytm UPI": {
+            "features": "Instant payments, linked to bank account.",
+            "rewards": "\u20b996 + 80 coins on setup.",
+            "charges": "Zero transaction fees."
+        }
+    },
+    "Investment": {
+        "Axis Mutual Fund": {
+            "features": "Diversified mutual fund options with professional management.",
+            "benefits": "Long-term wealth creation and tax savings under 80C.",
+            "minimum_investment": "\u20b9500"
+        }
+    },
+    "Credit Line": {
+        "FatakPay": {
+            "limit": "Credit line up to \u20b950,000",
+            "repayment": "Flexible repayment options with EMI.",
+            "rewards": "\u20b9320 + 275 coins per approved credit line."
+        }
+    }
+}
